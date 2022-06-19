@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+__MACOSX/
+.DS_Store
+
+# python
+*.pyc
